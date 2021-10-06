@@ -1,0 +1,272 @@
+media_name,media_type,css
+New York Times,print_native,p
+Washington Post,print_native,.pad-right-lg-lg
+Christian Science Monitor,print_native,p
+USA Today,print_native,.gnt_ar_b_p
+LA Times,print_native,.story
+New York Post,print_native,p
+Chicago Tribune,print_native,p
+houstonchronicle,print_native,.article--content
+Dallas Morning News,print_native,p
+Newsday,print_native,p
+SF Chronicle,digital_native,p
+The Boston Globe,NA,p
+Star Tribune,print_native,p
+Tampa Bay Times,print_native,p
+Orange County Register,print_native,.body-copy
+Sac Bee,print_native,p
+Miami Herald,print_native,p
+Kansas City Star,print_native,p
+Baltimore Sun,print_native,p
+San Jose Mercury News,print_native,p
+Milwaukee Journal Sentinel,print_native,p
+Orlando Sentinel,print_native,p
+South Florida Sun-Sentinel,print_native,p
+Columbus Dispatch,print_native,.gnt_ar_b
+Pittsburgh Post-Gazette,print_native,p
+St.Paul Pioneer-Press,print_native,p
+Omaha World-Herald,print_native,p
+Arkansas Democrat-Gazette,print_native,p
+The Buffalo News,print_native,p
+Hartford Courant,print_native,p
+Talking Points Memo,digital_native,p
+Daily Kos,digital_native,p
+Hot Air,digital_native,p
+RedState,digital_native,p
+Taegan Goddard's Political Wire,digital_native,p
+The New Replublic,print_native,p
+FactCheck,digital_native,p
+RealClearPolitics,digital_native,p
+Reuters,other,.StandardArticleBody_body
+Fox News,video_broadcast,.article-body
+CNN,video_broadcast,.zn-body__paragraph
+NPR,video_broadcast,#storytext > p
+Newsweek,NA,p
+US News & World Report,print_native,p
+New Yorker,print_native,.article__body
+CNN Money,print_native,p
+Forbes,print_native,.article-topline
+Fortune,print_native,p
+Atlantic,print_native,.ArticleParagraph_root__2QM08
+Mother Jones,print_native,p
+Harper's Magazine,print_native,p
+The Nation,print_native,p
+National Review,print_native,p
+NewsBusters,digital_native,p
+Raw Story,digital_native,p
+Wall Street Journal,print_native,p
+cleveland.com,digital_native,#arc-FAVUVEZ7LNCIBNNVC4IX5P2FEY
+UPI,other,p
+Daily Beast,digital_native,p
+Guardian US,NA,p
+CBS News,video_broadcast,.content__body
+CNBC,video_broadcast,.group
+Salon,digital_native,p
+CNET,digital_native,.row
+Time,NA,p
+GigaOM,digital_native,p
+TechCrunch,NA,p
+Reuters,other,.StandardArticleBody_body
+ESPN,video_broadcast,p
+Gizmodo,NA,.js_post-content
+Rolling Stone,print_native,p
+Mashable!,digital_native,p
+The Onion,print_native,p
+E! Online,video_broadcast,p
+Gawker,digital_native,p
+FiveThirtyEight,digital_native,p
+BusinessWeek.com,print_native,p
+Jezebel,digital_native,p
+Buzzfeed,digital_native,p
+Politico,print_native,.article__content
+arstechnica.com,digital_native,p
+OpenSecrets,digital_native,p
+Hollywood Reporter,print_native,p
+Weekly Standard,print_native,p
+The Wrap,digital_native,p
+Business Insider,digital_native,p
+Daily Caller,digital_native,#ob-read-more-selector
+blogs.wsj.com,print_native,p
+variety.com,print_native,p
+PJ Media,digital_native,p
+Billboard,print_native,p
+Mongabay,digital_native,p
+Breitbart,digital_native,.entry-content
+maxpreps.com,NA,p
+Post and Courier,print_native,p
+Slate.com,digital_native,.article__content
+townhall.com,digital_native,p
+Roll Call,print_native,p
+fark.com,digital_native,p
+bizjournals.com,digital_native,p
+CNN U.S. Edition,video_broadcast,p
+nj.com,digital_native,p
+CNS News,digital_native,p
+livescience.com,digital_native,p
+ProPublica,digital_native,p
+pitchfork.com,digital_native,p
+Vanity Fair,print_native,p
+CSPAN,video_broadcast,p
+observer.com,digital_native,p
+Stars and Stripes,print_native,p
+The Week,print_native,p
+The Street,digital_native,p
+American Spectator,print_native,p
+globalpost.com,digital_native,p
+Benzinga,digital_native,p
+Blaze,digital_native,#rev-less-wrapper
+techradar.com,NA,p
+Truthout,digital_native,p
+Kapitall Wire,digital_native,p
+Deadspin,digital_native,.bOfvBY
+mysanantonio.com,NA,p
+Atlanta Journal-Constitution,print_native,p
+National Catholic Register,print_native,p
+colorlines.com,digital_native,p
+hollywoodlife.com,NA,p
+opposingviews.com,digital_native,p
+newsone.com,digital_native,p
+NBC Sports,video_broadcast,p
+radaronline.com,print_native,p
+US Weekly,print_native,p
+Bleacher Report,digital_native,.body-copy
+Seattle Times,print_native,p
+AZCentral,digital_native,p
+St. Louis Post-Dispatch,NA,p
+creators.com,other,p
+eurweb,digital_native,p
+Newsmax,digital_native,p
+National Memo,digital_native,p
+patriot post,digital_native,p
+Central Maine News,print_native,p
+cbssports.com,video_broadcast,p
+gazettenet.com,print_native,p
+rutlandherald.com,print_native,p
+Upworthy,digital_native,p
+opednews.com,digital_native,p
+cincinnati.com,digital_native,.gnt_ar_b
+Inquisitr,digital_native,p
+Indiewire,digital_native,p
+Investors,print_native,p
+Grist,digital_native,p
+HuffPost,NA,p
+The Insider -,NA,p
+Press-Republican,print_native,p
+Stateline - News about state government and politics from The Pew Center on the States,digital_native,p
+rttnews,digital_native,p
+TheRealNews.com,digital_native,p
+Yale Global,digital_native,p
+blogs.barrons.com,print_native,p
+Parade,print_native,p
+ncronline.org,print_native,p
+NBC Breaking News,digital_native,p
+Marketwatch,digital_native,p
+Scientific American,print_native,p
+monstersandcritics,digital_native,p
+ABC News,video_broadcast,p
+zdnet,digital_native,p
+HonululuAdvertiser,print_native,p
+wired,print_native,p
+time,print_native,p
+Bloomberg,digital_native,p
+engadget,NA,p
+IBTimes,digital_native,p
+sentinelsource.com,print_native,p
+Conversation,digital_native,p
+Syracuse.com,print_native,p
+TMZ,digital_native,p
+Newsweek,digital_native,p
+Alternet,digital_native,p
+univision.com,video_broadcast,p
+newsblaze.com,digital_native,p
+El Nuevo Dia,print_native,p
+mlive.com,digital_native,p
+Quartz,digital_native,p
+ign.com,NA,p
+SB Nation,digital_native,p
+AirforceTimes,print_native,p
+uproxx.com,NA,p
+providencejournal.com,print_native,p
+Fansided,digital_native,p
+American Free Press,print_native,p
+polygon.com,NA,p
+elitedaily.com,digital_native,p
+ArmyTimes,print_native,p
+NavyTimes,print_native,p
+fayobserver.com,print_native,p
+Reason.com,print_native,p
+Entertainment Weekly,print_native,p
+norwichbulletin.com,print_native,p
+media.oregonlive.com,print_native,p
+blogs.philly.com,print_native,p
+nhgazette.com,print_native,p
+pilotonline.com,print_native,p
+marinetimes.com,print_native,p
+popmatters,digital_native,p
+ledger-enquirer.com,print_native,p
+Fusion,digital_native,p
+newsy,digital_native,p
+blogs.indystar.com,print_native,.gnt_ar_b_p
+Access Hollywood,digital_native,p
+x17online.com,digital_native,p
+yardbarker,digital_native,p
+eater.com,NA,p
+Saturday Evening Post,print_native,p
+HuffPost Latino Voices,digital_native,p
+Bustle,NA,p
+HudsonValley360,print_native,p
+Re/code,digital_native,p
+Contacto,print_native,p
+Refinery29,NA,p
+Hoy Chicago,print_native,p
+Vox,digital_native,p
+Daily Signal,digital_native,p
+talkingnewmedia.com,digital_native,p
+Inquirer,NA,p
+Verge,NA,.c-entry-content
+MintPress News,digital_native,p
+Mic,digital_native,p
+cn.nytimes.com,print_native,p
+The PostGame,digital_native,p
+recorder.com,print_native,p
+AxcessNews,digital_native,p
+Oan,digital_native,p+ p
+berkshireeagle.com,print_native,p
+thrillist.com,NA,p
+Red Herring,print_native,p
+axs.com,digital_native,p
+247sports.com,digital_native,p
+AOL News,digital_native,p
+augustachronicle.com,NA,p
+aol.sportingnews.com,digital_native,p
+Indian Country Today,print_native,p
+ihavenet.com,digital_native,p
+Cherokee Phoenix,NA,p
+San Diego Union Tribune,print_native,p
+Intercept,digital_native,p
+PBS NewsHour,video_broadcast,p
+Fox Sports,video_broadcast,p
+Scout,digital_native,p
+Talk Media News,digital_native,p
+Daily Source,digital_native,p
+LexisNexis® Legal Newsroom,digital_native,p
+PEOPLE.com,print_native,p
+Polish American Journal,print_native,p
+Schwartzreport,digital_native,p
+VICE,digital_native,p
+antena305.com,digital_native,p
+Superglue: MSNBC,video_broadcast,p
+gq.com,NA,p
+foxbusiness.com,video_broadcast,p
+Daily Dot,digital_native,p
+Indian Country News,print_native,p
+nationalenquirer.com,print_native,p
+theroot.com,digital_native,.js_post-content
+"Latest news, sports, weather from Denver and Colorado | The Denver Post",NA,p
+hollywoodweekly,print_native,p
+America RU,digital_native,p
+Huffington Post Black Voices,digital_native,p
+Huffington Post - United States,digital_native,p
+Bulgaria Sega,print_native,p
+Guardian,print_native,.dcr-s23rjr
+amp.freep.com,NA,p
